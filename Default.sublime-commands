@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "GoEasy: Format this file",
+    "command": "go_fmt"
+  }
+]
