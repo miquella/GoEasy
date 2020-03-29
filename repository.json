@@ -1,0 +1,18 @@
+{
+	"schema_version": "3.0.0",
+
+	"packages": [
+		{
+			"description": "A simple Sublime Text plugin for Go development",
+			"details": "https://github.com/miquella/GoEasy",
+			"labels": ["go", "golang", "formatting"],
+			"releases": [
+				{
+					"dependencies": ["diffmatchpatch", "golangconfig", "shellenv"],
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		}
+	]
+}
